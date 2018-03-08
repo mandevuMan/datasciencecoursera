@@ -2,7 +2,7 @@
 
 This repo contains  files:
 
-    1. Week4_FinalWorks.R - R script to perform analysis
+    1. run_analysis.R - R script to perform analysis
     2. CodeBook.md - used to indicate all the variables and summaries calculated, along with units, and any other relevant information.
  
 
