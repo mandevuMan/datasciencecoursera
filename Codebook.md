@@ -5,16 +5,16 @@ Code Book
 Please make sure you have downloaded the data files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped them. You can use winrar of winzip to extract the files.
 
 ## 1. Read data and Merge
-  activity_labels : Description of activity IDs in y_test and y_train
-  features : description(label) of each variables in X_test and X_train
+*  activity_labels : Description of activity IDs in y_test and y_train
+*  features : description(label) of each variables in X_test and X_train
   
-  subject_test : subject IDs for test
-  X_test : values of variables in test
-  y_test : activity ID in test
+*  subject_test : subject IDs for test
+*  X_test : values of variables in test
+*  y_test : activity ID in test
   
-  subject_train  : subject IDs for train
-  X_train : values of variables in train
-  y_train : activity ID in train
+*  subject_train  : subject IDs for train
+*  X_train : values of variables in train
+*  y_train : activity ID in train
   
   mergeData : combined data from training and test data sets
 
