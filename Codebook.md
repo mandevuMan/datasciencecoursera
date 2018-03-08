@@ -31,5 +31,5 @@ Assign the final column names to mergeData
 
 ## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Using ddply under plyr package, group the mergeData set using 'subjectID' and 'activity'. Run a mean function for each variable based on the group variable
-Use write.csv function to output the tiday data from step 4.
+Use write.table function to output the tiday data from step 4.
 
